@@ -1,3 +1,3 @@
-# java-for-juniors-8-using-openpojo
+# java-for-juniors-9-using-openpojo-with-lombok-advanced
 
-Live Coding at YouTube [here](https://www.youtube.com/watch?v=LO9h5bnBDas)!
+Live Coding at YouTube [here](https://youtu.be/-a249sy0N1w)!
